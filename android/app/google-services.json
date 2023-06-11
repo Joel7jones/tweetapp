@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021337942464",
+    "project_id": "tweet-app-crud",
+    "storage_bucket": "tweet-app-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021337942464:android:8a32c99a412fb3cf69b025",
+        "android_client_info": {
+          "package_name": "com.tweetapp.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021337942464-p7k3aaigal4i7ui4h8do9aiovvspo8m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tweetapp.crud",
+            "certificate_hash": "f177fc9f34c1535747c301044647a4b13e8c67bf"
+          }
+        },
+        {
+          "client_id": "1021337942464-q8fci6d9oaqsdgh54lliu3vudk9n3k0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRn8nqo3FXDvlAgScau8O9Vf65n3Jc_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021337942464-gt55td8qvkjbor6b8c0pljstojljd6hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
